@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VishakhaTomar
 - 👀 I’m interested in Tech product managment
-- 🌱 I’m currently learning coding
 - 📫 Reachable at https://www.linkedin.com/in/vishakha-tomar-54892ba8/
 
 <!---
